@@ -9,7 +9,7 @@ note: the original repository name is "-p5js--Random-----Selector" but changed t
 
 ## 遊戲教學
 1. **開始遊戲**  
-   點擊畫面任意位置開始遊戲，系統將隨機顯示一張 ENHYPEN 成員的圖片。
+   點擊畫面任意位置開始遊戲，系統將隨機顯示一張 ENHYPEN 成員的圖片。(圖片數量隨機）
 
 2. **查看資訊**  
    當圖片顯示時，畫面下方將顯示該成員的相關資訊，例如姓名和生日。
