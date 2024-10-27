@@ -1,6 +1,6 @@
 # Random ホスト Selector
 [ENHYPEN Romance: UNTOLD - Daydream](https://beliftlab.com/artist/profile/ENHYPEN?lang=en)
-### This is a side project using p5js based on school teaching
+### This is a side project using p5js based on school teaching in the meantime promoting the comeback of ENHYPEN✨
 
 ## 遊戲宗旨
 這款遊戲的目的是讓玩家隨機選擇並了解 ENHYPEN 成員的相關資訊。透過有趣的圖片和文字介紹，增進對成員的認識，並在遊戲過程中享受輕鬆愉快的氛圍。
