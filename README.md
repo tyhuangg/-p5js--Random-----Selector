@@ -1,5 +1,6 @@
 # Random ホスト Selector
 [ENHYPEN Romance: UNTOLD - Daydream](https://beliftlab.com/artist/profile/ENHYPEN?lang=en)
+note: the original repository name is "-p5js--Random-----Selector" but changed to the name now bc of the access of website
 ### This is a side project using p5js based on school teaching in the meantime promoting the comeback of ENHYPEN✨
 
 ## 遊戲宗旨
